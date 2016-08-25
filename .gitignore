@@ -1,0 +1,12 @@
+# Ignore metadata
+workspace/.metadata/*
+# Ignore recommenders
+workspace/.recommenders/*
+# Ignore complied code
+workspace/AutomationFramework/bin/*
+# Ignore all classpath files
+*.classpath
+# Ignore all prefs files
+*.prefs
+# Ignore all project files
+*.project
